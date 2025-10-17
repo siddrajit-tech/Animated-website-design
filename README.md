@@ -5,5 +5,5 @@ A guided project from GreatStack which I followed step by step and will add more
 I feel up to. 
 
 ## Tech Stack
--HTML
--CSS
+* HTML
+* CSS
